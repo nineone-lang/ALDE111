@@ -1,0 +1,26 @@
+  PTC Installation assistant log file
+========= PIM Version: 9.0.4.0 ==========
+Wed Mar 05 15:34:14 25
+=======================================
+ Sessioninfo xml file :C:\Users\nwustudent\Downloads\PC Lab Software\Mathcad - Ludwig Rötgen\MED-60893-CD-290_9-0-0-0\pim\xml\sessioninfo.xml)
+sessioninfo created
+PimTop-sessioninfo created
+before test communication
+skip test communication
+set platforms
+set languages prop
+ Sessioninfo xml file :C:\Users\nwustudent\Downloads\PC Lab Software\Mathcad - Ludwig Rötgen\MED-60893-CD-290_9-0-0-0\pim\xml\dotnet4.xml)
+ Sessioninfo xml file :C:\Users\nwustudent\Downloads\PC Lab Software\Mathcad - Ludwig Rötgen\MED-60893-CD-290_9-0-0-0\pim\xml\dotnet4.xml)
+Loaded product definition file: C:\Users\nwustudent\Downloads\PC Lab Software\Mathcad - Ludwig Rötgen\MED-60893-CD-290_9-0-0-0\pim\xml\mathcad.xml.
+Loaded product definition file: C:\Users\nwustudent\Downloads\PC Lab Software\Mathcad - Ludwig Rötgen\MED-60893-CD-290_9-0-0-0\pim\xml\qualityagent.xml.
+Microsoft .NET Framework 4 Client Profile was found to be installed. 
+Microsoft .NET Framework 4 was found to be installed. 
+
+Installation root path set to: C:\Program Files\PTC
+Starting the installation of PTC Mathcad Prime.
+Starting the installation of Diagnostic Tools.
+The Command line execution of "msiexec.exe /qn /I "C:\Users\nwustudent\Downloads\PC Lab Software\Mathcad - Ludwig Rötgen\MED-60893-CD-290_9-0-0-0\install\addon\qualityagent_64.msi" INSTALLDIR="C:\Program Files\PTC\DiagnosticTools"" returned an exit code of 0.
+The Command line execution of "msiexec.exe /qn /norestart /I "C:\Users\nwustudent\Downloads\PC Lab Software\Mathcad - Ludwig Rötgen\MED-60893-CD-290_9-0-0-0\ptcsh0\PrimeWixInstaller_64bit.msi" INSTALL_STANDALONE_WORKSHEET_CONVERTER=true /lv "C:\Users\nwustudent\Documents/pim_prime_msi.log" INSTALLDIR="C:\Program Files\PTC\Mathcad Prime 9.0.0.0"" returned an exit code of 0.
+Extracting archive file from C:\Users\nwustudent\Downloads\PC Lab Software\Mathcad - Ludwig Rötgen\MED-60893-CD-290_9-0-0-0\ptcsh0\ptc0.cab to path C:\Program Files\PTC\Mathcad Prime 9.0.0.0.
+Extracting archive file from C:\Users\nwustudent\Downloads\PC Lab Software\Mathcad - Ludwig Rötgen\MED-60893-CD-290_9-0-0-0\ptcsh0\ptc1.cab to path C:\Program Files\PTC\Mathcad Prime 9.0.0.0.
+Goodbye!
